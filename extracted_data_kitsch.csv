@@ -1,0 +1,335 @@
+tag,text,xpath
+a,Skip to content,/html/body/a
+h3,Your cart,/html/body/div[2]/div/div[2]/div/form/header/h3
+p,Free Shipping on all orders. Shop now!,/html/body/div[2]/div/div[2]/div/form/div[2]/p
+h4,Your Cart is Empty,/html/body/div[2]/div/div[2]/div/form/div[3]/h4
+a,shop all products,/html/body/div[2]/div/div[2]/div/form/div[3]/ul/li[1]/a
+a,shop haircare,/html/body/div[2]/div/div[2]/div/form/div[3]/ul/li[2]/a
+a,shop bundles,/html/body/div[2]/div/div[2]/div/form/div[3]/ul/li[3]/a
+p,FREE SHIPPING OVER $35,/html/body/div[3]/div/div/div/div[1]/div/p
+p,FREE INTERNATIONAL DELIVERY,/html/body/div[3]/div/div/div/div[2]/div/p
+p,25% OFF FOREVER WITH AUTO-SHIP SHOP NOW,/html/body/div[3]/div/div/div/div[3]/div/p
+a,SHOP NOW,/html/body/div[3]/div/div/div/div[3]/div/p/a
+p,BUNDLE & SAVE UP TO 30%! SHOP NOW,/html/body/div[3]/div/div/div/div[4]/div/p
+a,SHOP NOW,/html/body/div[3]/div/div/div/div[3]/div/p/a
+a,SHOP,/html/body/div[4]/header/div[1]/nav/ul/li[1]/noscript/a
+a,SHOP,/html/body/div[4]/header/div[1]/nav/ul/li[1]/noscript/a
+h3,Collections,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/h3
+a,Best Sellers,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[1]/a
+a,What's New,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[2]/a
+a,Kitsch & Mickey and Minnie,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[3]/a
+a,Hello Kitty x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[4]/a
+a,Bridgerton x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[5]/a
+a,Wonder Woman x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[6]/a
+a,Barbie x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[7]/a
+a,Harry Potter x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[8]/a
+a,Disney X Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[9]/a
+h3,Hair Care,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/h3
+a,Shampoo & Conditioner,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[1]/a
+a,Heatless Hair,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[2]/a
+a,Hair Treatment,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[3]/a
+a,Hair Styling,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[4]/a
+a,Shower Filters,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[5]/a
+a,Accessories,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[6]/a
+a,Bundles,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[7]/a
+h3,Sleep,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/h3
+a,Sleep,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/h3/a
+a,Pillowcases,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[1]/a
+a,The Glazey,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[2]/a
+a,Eye Masks,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[3]/a
+a,Sleep Caps & Bonnets,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[4]/a
+h3,Cleanse,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/h3
+a,Shower Filters,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[5]/a
+a,Shave & Razor,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[2]/a
+a,Body Wash,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[3]/a
+a,Hair Towels & Spa,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[4]/a
+a,Beauty Tools,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[5]/a
+a,Shower Caps,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[6]/a
+a,Travel,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[7]/a
+h3,Accessories,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/h3
+a,Hair Clips & Bobby Pins,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[1]/a
+a,Pro Hair,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[2]/a
+a,Brushes & Combs,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[3]/a
+a,Hair Ties,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[4]/a
+a,Scrunchies,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[5]/a
+a,Headbands,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[6]/a
+a,NEW,/html/body/div[4]/header/div[1]/nav/ul/li[2]/a
+a,BEST SELLERS,/html/body/div[4]/header/div[1]/nav/ul/li[3]/a
+a,COLLABS,/html/body/div[4]/header/div[1]/nav/ul/li[4]/a
+a,BUNDLES,/html/body/div[4]/header/div[1]/nav/ul/li[5]/a
+a,TODAY'S OFFERS,/html/body/div[4]/header/div[1]/nav/ul/li[6]/a
+a,Log in,/html/body/div[4]/header/div[1]/div[3]/a
+a,Best Sellers,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[1]/a
+a,New,/html/body/div[4]/header/div[2]/ul/li[2]/a
+a,Hair & Body,/html/body/div[4]/header/div[2]/ul/li[3]/a
+a,Collabs,/html/body/div[4]/header/div[2]/ul/li[4]/a
+a,Sleep,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/h3/a
+a,Bundles,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[7]/a
+a,Hair Quiz,/html/body/div[4]/div[1]/div/div/div/div[1]/a[1]
+a,Rewards,/html/body/div[4]/div[1]/div/div/div/div[1]/a[2]
+a,Account,/html/body/div[4]/div[1]/div/div/div/div[1]/a[3]
+a,SHOP,/html/body/div[4]/header/div[1]/nav/ul/li[1]/noscript/a
+a,SHOP,/html/body/div[4]/header/div[1]/nav/ul/li[1]/noscript/a
+h3,Collections,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/h3
+a,Best Sellers,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[1]/a
+a,What's New,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[2]/a
+a,Kitsch & Mickey and Minnie,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[3]/a
+a,Hello Kitty x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[4]/a
+a,Bridgerton x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[5]/a
+a,Wonder Woman x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[6]/a
+a,Barbie x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[7]/a
+a,Harry Potter x Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[8]/a
+a,Disney X Kitsch,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[1]/ul/li[9]/a
+h3,Hair Care,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/h3
+a,Shampoo & Conditioner,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[1]/a
+a,Heatless Hair,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[2]/a
+a,Hair Treatment,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[3]/a
+a,Hair Styling,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[4]/a
+a,Shower Filters,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[5]/a
+a,Accessories,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[6]/a
+a,Bundles,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[7]/a
+h3,Sleep,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/h3
+a,Sleep,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/h3/a
+a,Pillowcases,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[1]/a
+a,The Glazey,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[2]/a
+a,Eye Masks,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[3]/a
+a,Sleep Caps & Bonnets,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[3]/ul/li[4]/a
+h3,Cleanse,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/h3
+a,Shower Filters,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[5]/a
+a,Shave & Razor,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[2]/a
+a,Body Wash,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[3]/a
+a,Hair Towels & Spa,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[4]/a
+a,Beauty Tools,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[5]/a
+a,Shower Caps,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[6]/a
+a,Travel,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[7]/a
+h3,Accessories,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/h3
+a,Hair Clips & Bobby Pins,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[1]/a
+a,Pro Hair,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[2]/a
+a,Brushes & Combs,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[3]/a
+a,Hair Ties,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[4]/a
+a,Scrunchies,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[5]/a
+a,Headbands,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[5]/ul/li[6]/a
+a,NEW,/html/body/div[4]/header/div[1]/nav/ul/li[2]/a
+a,BEST SELLERS,/html/body/div[4]/header/div[1]/nav/ul/li[3]/a
+a,COLLABS,/html/body/div[4]/header/div[1]/nav/ul/li[4]/a
+a,BUNDLES,/html/body/div[4]/header/div[1]/nav/ul/li[5]/a
+a,TODAY'S OFFERS,/html/body/div[4]/header/div[1]/nav/ul/li[6]/a
+h3,popular searches,/html/body/div[4]/div[2]/div[1]/form/div[2]/template[2]/div/h3
+a,Shampoo,/html/body/div[4]/div[2]/div[1]/form/div[2]/template[2]/div/ul/li[1]/a
+a,Body Wash,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[3]/a
+a,Satin Pillowcase,/html/body/div[4]/div[2]/div[1]/form/div[2]/template[2]/div/ul/li[3]/a
+a,Heatless Hair,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[2]/ul/li[2]/a
+a,Shower Caps,/html/body/div[4]/header/div[1]/nav/ul/li[1]/div/div/div/div/div/div[4]/ul/li[6]/a
+a,Recycled Hair Clips,/html/body/div[4]/div[2]/div[1]/form/div[2]/template[2]/div/ul/li[6]/a
+a,Towel Scrunchies,/html/body/div[4]/div[2]/div[1]/form/div[2]/template[2]/div/ul/li[7]/a
+h3,Products,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[2]/div[1]/h3
+h3,trending products,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/h3
+a,Rs. 340.00 OFF,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[1]/div/div/a
+p,Rice Water Shampoo Bar for Hair Growth,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[1]/div/a/p
+a,Rs. 880.00 OFF,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[2]/div/div/a
+p,Kitsch Self-Draining Shower Caddy,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[2]/div/a/p
+a,Rs. 340.00 OFF,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[1]/div/div/a
+p,Rice Water Conditioner Bar for Hair Growth,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[3]/div/a/p
+a,Rs. 340.00 OFF,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[1]/div/div/a
+p,Strengthening Bond Repair Solid Hair Mask,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[4]/div/a/p
+a,Rs. 340.00 OFF,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[1]/div/div/a
+p,Self-Draining Soap Dish,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[5]/div/a/p
+a,Home,/html/body/main/section[1]/section/div/div[2]/div/nav/ol/li[1]/a
+h1,Castor Oil Shampoo + Conditioner Combo,/html/body/main/section[1]/section/div/div[2]/div/div[1]/h1
+p,available for orders over $10 !,/html/body/main/section[1]/section/div/div[2]/div/div[3]/p
+a,!,/html/body/main/section[1]/section/div/div[2]/div/div[3]/p/a
+p,Subscribe to get 25% off forever,/html/body/main/section[1]/section/div/div[2]/div/div[4]/form/div/div[1]/label[2]/div/span[2]/p
+p,"After shampooing, wet the bar with warm water and massage it into your strands from lengths to ends, working it into a sudsy lather. Rinse and comb or detangle as usual.",/html/body/main/section[1]/section/div/div[2]/div/div[10]/div/div/div/p[1]
+p,"Pro Tip: For even softer, frizz-free hair, pair with the Kitsch Nourishing Castor Oil Solid Shampoo to help nourish and balance your scalp & strands.",/html/body/main/section[1]/section/div/div[2]/div/div[10]/div/div/div/p[2]
+p,"Nourish your hair from roots to ends with the help of Castor Oil, a strand-strengthening and scalp-balancing oil for clean, healthy hair.",/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[1]/div[2]/div/p
+p,"Ricinoleic Acid can help promote stronger, more luscious hair by stimulating blood flow to your scalp to support healthier hair follicles and growth.",/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[2]/div[2]/div/p
+p,"Detangle knots and control frizz with Fision® Hydratress for smooth, shiny strands.",/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[3]/div[2]/div/p
+p,This natural alternative to silicone helps condition your strands with a boost of shine.,/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[4]/div[2]/div/p
+p,We are Leaping Bunny certified! The Leaping Bunny Logo is the only internationally recognized symbol guaranteeing consumers that no new animal tests were used in the development of any product displaying it.,/html/body/main/section[1]/section/div/div[2]/div/div[12]/div/div/div/p
+h2,Castor Oil Shampoo + Conditioner Combo,/html/body/main/section[1]/div[1]/div/div[2]/div/h2
+p,Register to receive a notification when this item comes back in stock.,/html/body/main/section[1]/div[1]/div/div[2]/div/p
+p,Please enter a valid email address.,/html/body/main/section[1]/div[1]/div/div[2]/div/div/p[1]
+p,Thanks for signing up! We'll send you an email when the product becomes available.,/html/body/main/section[1]/div[1]/div/div[2]/div/div/p[2]
+h2,Best Selling Bundles,/html/body/main/section[2]/div/div/div[1]/div[1]/h2
+a,"Rs. 1,080.00 OFF
+            
+10% OFF",/html/body/main/section[2]/div/div/div[2]/ul/li[1]/div/div[1]/a
+p,Castor Oil Shampoo + Conditioner + Soap Dish Bundle,/html/body/main/section[2]/div/div/div[2]/ul/li[1]/div/a/p
+a,"Rs. 840.00 OFF
+            
+10% OFF",/html/body/main/section[2]/div/div/div[2]/ul/li[2]/div/div[1]/a
+p,Pack Light Bundle - Castor Oil,/html/body/main/section[2]/div/div/div[2]/ul/li[2]/div/a/p
+h2,4 Reasons Why Millions of Women are Switching to Castor Oil,/html/body/main/div[1]/div/div/h2
+h3,1. less hair breakage,/html/body/main/div[1]/div/div/div/div[2]/div/div[1]/h3
+p,"Castor oil has moisturizing properties, which could help lubricate the hair shaft, increasing flexibility and decreasing the chance of breakage.",/html/body/main/div[1]/div/div/div/div[2]/div/div[1]/div/p
+h3,2. strengthening,/html/body/main/div[1]/div/div/div/div[2]/div/div[2]/h3
+p,"The idea is that the high content of ricinoleic acid may help improve blood circulation in the scalp, which might lead to nutrition for the hair follicles, stronger strands, and less breakage.",/html/body/main/div[1]/div/div/div/div[2]/div/div[2]/div/p
+h3,3. healthy scalp,/html/body/main/div[1]/div/div/div/div[2]/div/div[3]/h3
+p,"Castor Oil increases blood flow to the scalp, which promotes healthier hair.",/html/body/main/div[1]/div/div/div/div[2]/div/div[3]/div/p
+h3,4. detoxifying,/html/body/main/div[1]/div/div/div/div[2]/div/div[4]/h3
+p,Castor Oil's antimicrobial and antifungal properties can reduce dandruff.,/html/body/main/div[1]/div/div/div/div[2]/div/div[4]/div/p
+h2,Perfect Additions,/html/body/main/section[4]/div/div/div[1]/div[1]/h2
+a,Rs. 340.00 OFF,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[1]/div/div/a
+p,Deep-Moisturizing Conditioner Bar for Dry Damaged Hair,/html/body/main/section[4]/div/div/div[2]/ul/li[1]/div/a/p
+a,Rs. 880.00 OFF,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[2]/div/div/a
+p,Kitsch Self-Draining Shower Caddy,/html/body/div[4]/div[2]/div[1]/form/div[2]/div[3]/ul/li[2]/div/a/p
+a,Rs. 120.00 OFF,/html/body/main/section[4]/div/div/div[2]/ul/li[3]/div/div[1]/a
+p,Shampoo Bar Bag,/html/body/main/section[4]/div/div/div[2]/ul/li[3]/div/a/p
+a,Rs. 120.00 OFF,/html/body/main/section[4]/div/div/div[2]/ul/li[3]/div/div[1]/a
+p,Conditioner Bar Bag,/html/body/main/section[4]/div/div/div[2]/ul/li[4]/div/a/p
+a,Write a Review (Opens in a new window),/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[1]/div[2]/a
+p,OMG!!   Using this shampoo bar was an experience you can’t wait to share. Skeptical at first- using a bar on my thick curly hair -born of mixed  ethnicities … thank God I was overwhelmingly impressed.  Curls were bouncy & vibrant immediately after shampooing- b4 adding conditioner... Love ❤️.. love your products . .. anxious to try out others,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[1]/div/div[2]/div[1]/div/div/div[3]/p
+p,I'm in love! I was skeptical switching to bar shampoo just because it was outside my comfort zone but I'm amazed. I've always been conscious of staying away from harmful chemicals but this takes the cake.,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[2]/div/div[2]/div[1]/div/div/div[3]/p[1]
+p,"I use the ""painting"" method on my scalp and the lather is so rich. It doesn't feel dry, but rather nourishing and cleansing. I actually think I ""painted"" too much because it was SO MUCH lather. A little goes a long way.",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[2]/div/div[2]/div[1]/div/div/div[3]/p[2]
+p,I paired it with the Shea Butter Conditioner bar and I'm absolutely sold. This was after my first use and I can't wait see the results after a few weeks transitioning from traditional product to clean Kitsch bars. I'm about to order a couple more for a nice rotation. Thank you Kitsch!,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[2]/div/div[2]/div[1]/div/div/div[3]/p[3]
+p,"REFERENCE: Long natural blonde hair, thick and curly/wavy texture, frizz control issues and mild dandruff. Dryness/greasy spells depending on what products I'm using and environment I'm in as I live in Florida (humid) and Las Vegas (dry) throughout the year.",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[2]/div/div[2]/div[1]/div/div/div[3]/p[4]
+p,"I recently tried the castor oil shampoo and conditioner line and LOVE it! It has a very light sweet scent and made my hair feel cleansed and moisturized without feeling heavy. I also put the new leave-in conditioner on my ends. It feels light and has a nice scent! With Kitsch hair products, I feel like I’m really taking care of my hair for the first time—I never got into buying expensive products at the salon. I’m super happy with Kitsch’s affordable products and I’m feeling like I’m finally taking care of my hair the way I’ve always taken care of my skin—Kitsch is hair care for hair like skin care is for skin! I’m a Kitsch customer for life! Highly recommend! Thank you, Kitsch!",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[3]/div/div[2]/div[1]/div/div/div[3]/p[1]
+p,PS The Kitsch shampoo and conditioner bags are so awesome and make using the products super easy and convenient!!! I now have two shampoo and conditioner sets (this Castor oil line and the Rosemary & Biotin line) and Kitsch body wash bar set.,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[3]/div/div[2]/div[1]/div/div/div[3]/p[2]
+p,I've been using the castor oil shampoo & the rosemary and biotin conditioners for a couple of weeks now.,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[4]/div/div[2]/div[1]/div/div/div[3]/p[1]
+p,I was pleasantly surprised by the luxurious lather ESPECIALLY from a bar!,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[4]/div/div[2]/div[1]/div/div/div[3]/p[2]
+p,I've noticed baby hairs coming in already too!,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[4]/div/div[2]/div[1]/div/div/div[3]/p[3]
+p,Also my hair looks and feels great so far!,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[4]/div/div[2]/div[1]/div/div/div[3]/p[4]
+p,I will DEFINITELY purchase again!,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[4]/div/div[2]/div[1]/div/div/div[3]/p[5]
+p,"The smell is awesome, first and foremost! Next, some info about me. I'm a melanated beauty with thick, dense, and curly/coily hair. Always very thirsty and I also suffer with scalp psoriasis.",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[5]/div/div[2]/div[1]/div/div/div[3]/p[1]
+p,"After using the shampoo,  I squeezed out some access water and went in with this. Initially I was a bit concerned about how much hydration I would get, but as I rubbed the bar throughout and went in to emulsify, it felt pretty great. Not a super heavy feel, but my curls were loving the hydration as I let it sit for 5-7 mins or so.",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[5]/div/div[2]/div[1]/div/div/div[3]/p[2]
+p,"Definitely want to make sure you thoroughly rinse, but I'm really happy with how my curls looked and felt after getting out of the shower! A winner so far, look forward to using it again",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[5]/div/div[2]/div[1]/div/div/div[3]/p[3]
+p,"Was able to try the castor oil s&c and was a big difference for my curls. I have wavy/curly hair and generally doesn't hold curl very well without lots of product. Was able to test and used very little products and allowed my hair to air dry. Hair felt much softer, less frizz, and more defined curls that held longer. Will definitely be adding to my routine",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[6]/div/div[2]/div[1]/div/div/div[3]/p
+p,"Love this bar. My hair is thin and can get oily. This shampoo keeps my hair clean without stripping it and keeps it looking healthy, with body and shiny. People have commented on how healthy my hair is and has helped me grow it longer than I’ve had it in a long time.",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[7]/div/div[2]/div[1]/div/div/div[3]/p
+p,"It's the second time I buy from Kitsch and the products never dissapoint. My hair feels healthier, shinnier and stronger. I'm off traditional shampoos and I'm so happy I changed.  The change means no more plastic bottles are used every other week and giving natural ""food"" to my hair, so it's a win win.",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[8]/div/div[2]/div[1]/div/div/div[3]/p[1]
+p,What a difference this had made on my very dry gray/white hair! I have bra strap length single layer hair that I have been battling to keep from dryness and frizz. This shampoo along with the rosemary oil treatment has been just what I’ve been looking for!,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[9]/div/div[2]/div[1]/div/div/div[3]/p[1]
+p,Thank you 💐 Joy D.,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[9]/div/div[2]/div[1]/div/div/div[3]/p[2]
+p,"I recently switched to this shampoo. So far (used twice) it has left my hair light and fluffy. On average I wash once or twice a week. With this shampoo feel like I have to wash at least twice a week because my hair does get a little greasy sooner than my previous shampoo. I have A LOT of wavy Hair, so it does keep my waves in tact too.",/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[3]/ul/li[10]/div/div[2]/div[1]/div/div/div[3]/p
+a,Show More,/html/body/main/section[6]/div/div/div/div/div/div[3]/div/div/div/div[4]/div/a
+h2,Frequently Asked Questions,/html/body/main/section[7]/div/div/div[1]/div/h2
+p,"This bar promotes overall hair health by nourishing the hair with enriching ingredients like castor oil and quinoa protein blend, potentially reducing the need for additional treatments.",/html/body/main/section[7]/div/div/div[2]/ul/li[1]/div/div/div/p
+p,"Yes! This conditioner is designed to pair perfectly with our fan favorite Castor Oil Nourishing Shampoo Bar, providing a comprehensive solution for hair health. You can also mix and match to accommodate your hair’s needs based on the solutions our shampoo and conditioner bars offer.",/html/body/main/section[7]/div/div/div[2]/ul/li[2]/div/div/div/p
+p,"Yes! This shampoo is formulated to be gentle yet effective, making it suitable for all hair types, including dry and damaged hair.",/html/body/main/section[7]/div/div/div[2]/ul/li[3]/div/div/div/p
+p,Yes! Our shampoos are free of sulfates and parabens which means they’re gentle enough to be used on treated hair without stripping color.,/html/body/main/section[7]/div/div/div[2]/ul/li[4]/div/div/div/p
+p,"Yes, you can use this conditioner bar daily! It's formulated to provide deep hydration and nourishment without weighing your hair down.",/html/body/main/section[7]/div/div/div[2]/ul/li[5]/div/div/div/p
+p,"Long-term use of this shampoo promotes hair health and vitality by reducing damage, breakage and hair loss, ultimately leading to stronger, healthier hair.",/html/body/main/section[7]/div/div/div[2]/ul/li[6]/div/div/div/p
+p,Yes! Our shampoos are free of sulfates and parabens which means they’re gentle enough to be used on hair extensions.,/html/body/main/section[7]/div/div/div[2]/ul/li[7]/div/div/div/p
+p,"This bar is suitable for all hair types, especially dry and damaged hair. It is also a great option for those with oily or high porosity hair. It helps to hydrate, reduce frizz, and strengthen hair.",/html/body/main/section[7]/div/div/div[2]/ul/li[8]/div/div/div/p
+p,"Solid bars often last longer than traditional liquid shampoo and conditioners. With proper use and storage, a single bar can provide up to 100 uses!",/html/body/main/section[7]/div/div/div[2]/ul/li[9]/div/div/div/p
+p,"Just like the rest of our products, our shampoo is free from harmful chemicals and is made with high-quality, nourishing ingredients like coconut oil to ensure the best care for your hair and scalp.",/html/body/main/section[7]/div/div/div[2]/ul/li[10]/div/div/div/p
+h2,Our Story,/html/body/main/div[2]/div/div/div/div[2]/div/div[1]/h2
+p,"Founded by Wisconsin native Cassandra Thurswell at the age of 25, Kitsch is a global beauty powerhouse built on positivity and pure hard work. The brand supports its growing community with easy, elevated beauty solutions that are totally reliable, truly special, and made as sustainably as possible. Beginning in 2010 with a business plan no longer than a paragraph, Kitsch now supplies a full range of beauty favorites in over 20,000 retail locations worldwide. A prominent entrepreneur featured in Forbes and Inc., Cassandra continues to create elevated, sustainable beauty solutions for every moment of the day.",/html/body/main/div[2]/div/div/div/div[2]/div/div[2]/p
+h2,Try it Risk-Free,/html/body/section[2]/div/h2
+h3,SHIPS SAME OR NEXT DAY,/html/body/section[2]/div/div/div/div[1]/h3
+p,Efficient shipping: Same or next-day shipping for your convenience.,/html/body/section[2]/div/div/div/div[1]/div/p
+h3,90 DAY RETURNS,/html/body/section[2]/div/div/div/div[2]/h3
+p,Easy returns: Enjoy a generous 90-day return policy hassle-free.,/html/body/section[2]/div/div/div/div[2]/div/p
+h3,FREE U.S. SHIPPING OVER $35,/html/body/section[2]/div/div/div/div[3]/h3
+p,Free U.S. shipping: Orders over $35 qualify for complimentary shipping.,/html/body/section[2]/div/div/div/div[3]/div/p
+p,Ingredients,/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[5]/template/div/p
+p,Shampoo,/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[5]/template/div/div/p[1]
+p,"Sodium Cocoyl Isethionate, Sodium Methyl Cocoyl Taurate, Vegetable Glycerin, Hydrogenated Castor Oil, Guar Hydroxypropyltrimonium Chloride, Natural Fragrance*, Iron Oxide**, Ultramarine**
+
+*Natural fragrance derived from plants. **Natural color.
+
+Free of parabens, phthalates, silicones, sulfates, & artificial fragrance
+
+Fragrance: Sugared Amber & Shea",/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[5]/template/div/div/p[2]
+p,Conditioner,/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[5]/template/div/div/p[3]
+p,"Cetearyl Alcohol, Behentrimonium Chloride, Cocos Nucifera (Coconut) Oil, Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Lauryl Laurate, Natural Fragrance*, Hydrogenated Ethylhexyl Olivate (and) Hydrogenated Olive Oil Unsaponifiables, Water, Panthenol, Hydrolyzed Quinoa, Pisum Sativum (Pea) Seed Extract, Hexanediol, Sodium Hyaluronate, Guar Hydroxypropyltrimonium Chloride, Iron Oxide (CI77491)**.
+
+*Natural fragrance derived from plants. **Natural color.",/html/body/main/section[1]/section/div/div[2]/div/div[11]/div/div/div/div/div[5]/template/div/div/p[4]
+p,LET'S CONNECT!,/html/body/div[7]/footer/div/div[2]/div/div[1]/p
+p,Stay up-to-date with new products and promotions when you sign up for our emails.,/html/body/div[7]/footer/div/div[2]/div/div[1]/div/p
+p,"By submitting this form and signing up for texts, you consent to receive marketing text messages (e.g. promos, cart reminders) from KITSCH at the number provided, including messages sent by autodialer. Consent is not a condition of purchase. Msg & data rates may apply. Msg frequency varies. Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available). Privacy Policy & Terms.",/html/body/div[7]/footer/div/div[2]/div/div[1]/div/div[1]/div/div/form/div/div[4]/div/div/p
+a,Privacy Policy,/html/body/div[7]/footer/div/div[2]/div/div[1]/div/div[1]/div/div/form/div/div[4]/div/div/p/a[1]
+a,Terms,/html/body/div[7]/footer/div/div[2]/div/div[1]/div/div[1]/div/div/form/div/div[4]/div/div/p/a[2]
+p,ABOUT US,/html/body/div[7]/footer/div/div[2]/div/div[2]/p
+a,Our Story,/html/body/div[7]/footer/div/div[2]/div/div[2]/ul/li[1]/a
+a,Patents,/html/body/div[7]/footer/div/div[2]/div/div[2]/ul/li[2]/a
+a,Careers,/html/body/div[7]/footer/div/div[2]/div/div[2]/ul/li[3]/a
+a,Sustainability,/html/body/div[7]/footer/div/div[2]/div/div[2]/ul/li[4]/a
+a,Kitsch Gives Back,/html/body/div[7]/footer/div/div[2]/div/div[2]/ul/li[5]/a
+a,Do not sell or share my personal information,/html/body/div[7]/footer/div/div[2]/div/div[2]/ul/li[6]/a
+p,Store,/html/body/div[7]/footer/div/div[2]/div/div[3]/p
+a,Rewards,/html/body/div[4]/div[1]/div/div/div/div[1]/a[2]
+a,Refer A Friend,/html/body/div[7]/footer/div/div[2]/div/div[3]/ul/li[2]/a
+a,Ambassadors,/html/body/div[7]/footer/div/div[2]/div/div[3]/ul/li[3]/a
+a,Wholesale,/html/body/div[7]/footer/div/div[2]/div/div[3]/ul/li[4]/a
+a,Join the Community,/html/body/div[7]/footer/div/div[2]/div/div[3]/ul/li[5]/a
+a,Offers & Promotions,/html/body/div[7]/footer/div/div[2]/div/div[3]/ul/li[6]/a
+a,Hair Quiz,/html/body/div[4]/div[1]/div/div/div/div[1]/a[1]
+a,Student Discount,/html/body/div[7]/footer/div/div[2]/div/div[3]/ul/li[8]/a
+p,CUSTOMER SERVICE,/html/body/div[7]/footer/div/div[2]/div/div[4]/p
+a,Contact Us,/html/body/div[7]/footer/div/div[2]/div/div[4]/ul/li[1]/a
+a,My Account,/html/body/div[7]/footer/div/div[2]/div/div[4]/ul/li[2]/a
+a,Track My Order,/html/body/div[7]/footer/div/div[2]/div/div[4]/ul/li[3]/a
+a,Start a Return,/html/body/div[7]/footer/div/div[2]/div/div[4]/ul/li[4]/a
+a,Do Not Sell or Share My Personal Information,/html/body/div[7]/footer/div/div[2]/div/div[4]/ul/li[5]/a
+a,Manage Personal Information,/html/body/div[7]/footer/div/div[2]/div/div[4]/ul/li[6]/a
+a,Twitter,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[1]/li[1]/a
+a,Facebook,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[1]/li[2]/a
+a,Pinterest,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[1]/li[3]/a
+a,Instagram,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[1]/li[4]/a
+a,TikTok,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[1]/li[5]/a
+a,Privacy Policy,/html/body/div[7]/footer/div/div[2]/div/div[1]/div/div[1]/div/div/form/div/div[4]/div/div/p/a[1]
+a,Terms of Use,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[2]/li[2]/a
+a,CCPA Rights,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[2]/li[3]/a
+a,Accessibility,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[2]/li[4]/a
+a,Toggle Accessibility,/html/body/div[7]/footer/div/div[2]/div/div[5]/div[1]/ul[2]/li[5]/a[2]
+p,KITSCH. All rights reserved,/html/body/div[7]/footer/div/div[3]/div/div/div[1]/div/p
+p,Country/region,/html/body/div[7]/footer/div/div[3]/div/div/div[2]/noscript/form/div/p
+h2,Country/region,/html/body/div[7]/footer/div/div[3]/div/div/div[2]/form/div/h2
+h2,Login to your account,/html/body/div[9]/div/div/div/main/div[1]/h2
+p,"Earn points, manage subscriptions and track orders",/html/body/div[9]/div/div/div/main/div[1]/div/div/p
+h2,Welcome,/html/body/div[9]/div/div/div/main/div[2]/div[1]/div[1]/h2
+a,my rewards,/html/body/div[9]/div/div/div/main/div[2]/div[1]/div[2]/a[1]
+a,manage subscriptions,/html/body/div[9]/div/div/div/main/div[2]/div[1]/div[2]/a[2]
+a,Manage Subscriptions,/html/body/div[9]/div/div/div/main/div[2]/div[1]/div[2]/a[3]
+h2,Recently Viewed,/html/body/div[9]/div/div/div/main/div[2]/div[2]/h2
+a,"Castor Oil Shampoo + Conditioner Combo
+
+
+$28",/html/body/div[9]/div/div/div/main/div[2]/div[2]/div/div/div/a
+h2,Popular Today,/html/body/div[9]/div/div/div/main/div[2]/div[3]/h2
+a,"Rice Water Shampoo + Conditioner Combo
+
+
+$28",/html/body/div[9]/div/div/div/main/div[2]/div[3]/div/div/div[1]/a
+a,"Rosemary & Biotin Shampoo + Conditioner Combo
+
+
+$28",/html/body/div[9]/div/div/div/main/div[2]/div[3]/div/div/div[2]/a
+a,"Hair Wax Stick with Castor Oil
+
+
+$14",/html/body/div[9]/div/div/div/main/div[2]/div[3]/div/div/div[3]/a
+a,"Brightening Kojic Acid Solid Face & Body Wash
+
+
+$15",/html/body/div[9]/div/div/div/main/div[2]/div[3]/div/div/div[4]/a
+a,"Volumizing Rice Protein Dry Shampoo
+
+
+$15",/html/body/div[9]/div/div/div/main/div[2]/div[3]/div/div/div[5]/a
+a,"Kitsch Subscriptions
+
+
+
+Manage your subscriptions",/html/body/div[9]/div/div/div/main/div[2]/div[4]/div/a
+h2,Kitsch Subscriptions,/html/body/div[9]/div/div/div/main/div[2]/div[4]/div/a/h2
+p,Manage your subscriptions,/html/body/div[9]/div/div/div/main/div[2]/div[4]/div/a/p
+h2,Your Orders,/html/body/div[9]/div/div/div/main/div[3]/div/div[1]/h2
+h2,Your Profile,/html/body/div[9]/div/div/div/main/div[5]/div/div[1]/h2
+a,Personal Information,/html/body/div[9]/div/div/div/main/div[5]/div/div[2]/a[1]
+a,Shipping Addresses,/html/body/div[9]/div/div/div/main/div[5]/div/div[2]/a[2]
+a,Manage your Subscription,/html/body/div[9]/div/div/div/main/div[5]/div/div[2]/a[3]
+a,Hair Quiz,/html/body/div[4]/div[1]/div/div/div/div[1]/a[1]
+a,Help Center,/html/body/div[9]/div/div/div/main/div[5]/div/div[2]/a[5]
+a,Contact Us,/html/body/div[7]/footer/div/div[2]/div/div[4]/ul/li[1]/a
+a,Log out,/html/body/div[9]/div/div/div/main/div[5]/div/div[3]/a
+h2,Edit Profile,/html/body/div[9]/div/div/div/main/div[6]/div/div[1]/h2
+h2,Shipping Addresses,/html/body/div[9]/div/div/div/main/div[7]/div/div[1]/h2
+a,Add Shipping Address,/html/body/div[9]/div/div/div/main/div[7]/div/div[3]/a
+h2,Add a Shipping Address,/html/body/div[9]/div/div/div/main/div[8]/div/div[1]/h2
+h2,Edit Shipping Address,/html/body/div[9]/div/div/div/main/div[9]/div/div[1]/h2
+a,Home,/html/body/main/section[1]/section/div/div[2]/div/nav/ol/li[1]/a
+a,Orders,/html/body/div[9]/div/div/div/footer/div/a[2]
+a,Profile,/html/body/div[9]/div/div/div/footer/div/a[3]
+h2,OrderEditing,/html/body/div[10]/div/h2
+a,"CodeInspire
+                ↗",/html/body/div[11]/div/div[3]/div[5]/div/a

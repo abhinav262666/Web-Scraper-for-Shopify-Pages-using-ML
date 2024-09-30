@@ -1,0 +1,608 @@
+tag,text,xpath
+a,sample kits,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[1]/a
+p,sample kits,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[1]/a/div/div[1]/p[1]
+p,Shop by Category,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[1]/div/p[1]
+a,Styling Creams & Gels,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[1]/a
+a,Conditioners,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[2]/a
+a,Shampoos & Prepoos,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[3]/a
+a,"Masks, Oils & Serums",/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[4]/a
+a,Heat Styling,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[5]/a
+a,Tools & Brushes,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[6]/a
+a,Accessories,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[7]/a
+a,Curl Mousse,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[1]/a
+a,Palo Santo Leave-In Conditioner,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[2]/a
+a,Hydration Shampoo,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[3]/a
+a,Palo Santo Styling Cream,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[4]/a
+a,Detangling Nectar,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[5]/a
+a,Curl Gel,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[6]/a
+a,Palo Santo Medium Conditioner,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[7]/a
+p,Shop by Texture,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[3]/div[1]/div/p[1]
+h4,Shop by Texture,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[3]/div[2]/div/h4
+a,Curly,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[3]/div[2]/div/ul/li[1]/a
+a,Coily,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[3]/div[2]/div/ul/li[2]/a
+a,Tight Texture,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[3]/div[2]/div/ul/li[3]/a
+a,Locs,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[3]/div[2]/div/ul/li[4]/a
+p,SETS & MINIS,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[4]/div[1]/div/p[1]
+h4,SETS & MINIS,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[4]/div[2]/div/h4
+a,Bestselling Sets & Kits,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[4]/div[2]/div/ul/li[1]/a
+a,Mini Travel Sets,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[4]/div[2]/div/ul/li[2]/a
+a,Curl Type Starter Kits,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[4]/div[2]/div/ul/li[3]/a
+p,Curl Edu,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[1]/div/p[1]
+a,Curl Guide,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[1]/a
+a,Blog,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[2]/a
+a,Curl Quiz,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[3]/a
+a,Conditioner Quiz,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[4]/a
+a,Curling Iron,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[5]/a
+p,Our StoryRewardsContactLog in / RegisterE-Gift CardsFAQs,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p
+a,Our Story,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[1]
+a,Rewards,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[2]
+a,Contact,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[3]
+a,Log in / Register,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[4]
+a,E-Gift Cards,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[5]
+a,FAQs,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[6]
+a,Facebook,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[1]/a
+a,Pinterest,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[2]/a
+a,Instagram,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[3]/a
+a,TikTok,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[4]/a
+a,YouTube,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[5]/a
+h2,Your cart is empty,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[1]/div/h2
+a,Continue shopping,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[1]/div/a
+p,Have an account?,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[1]/div/p[1]
+p,Log in to check out faster.,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[1]/div/p[2]
+a,Log in,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[1]/div/p[2]/a
+h3,Bestsellers Curly Hair Products,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/h3
+a,Bestsellers Curly Hair Products,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/h3/a
+p,"Bestselling hair care for curly, coily & tight textures shower. style. treat....",/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/p
+h3,Bestsellers Curly Hair Products,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/h3
+a,Bestsellers Curly Hair Products,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/h3/a
+p,Loading...,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/fostr-cart-drawer-items/div/form/div[1]/p[2]
+h3,Subtotal,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[2]/div/div[1]/div[1]/h3
+p,$0.00,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[2]/div/div[1]/div[1]/p
+a,shipping,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[2]/div/div[1]/small/a
+a,Skip Navigation,/html/body/fostr-main-content/a
+a,free us shipping on orders $75+,/html/body/fostr-main-content/div[1]/div/div/div[1]/a
+p,free us shipping on orders $75+,/html/body/fostr-main-content/div[1]/div/div/div[1]/a/p
+a,FREE GIFT WITH LEAVE-IN CONDITIONER,/html/body/fostr-main-content/div[1]/div/div/div[2]/a
+p,FREE GIFT WITH LEAVE-IN CONDITIONER,/html/body/fostr-main-content/div[1]/div/div/div[2]/a/p
+a,OUR CURLING IRON HAS WON AN ALLURE BEST OF BEAUTY AWARD!,/html/body/fostr-main-content/div[1]/div/div/div[3]/a
+p,OUR CURLING IRON HAS WON AN ALLURE BEST OF BEAUTY AWARD!,/html/body/fostr-main-content/div[1]/div/div/div[3]/a/p
+a,free us shipping on orders $75+,/html/body/fostr-main-content/div[1]/div/div/div[1]/a
+p,free us shipping on orders $75+,/html/body/fostr-main-content/div[1]/div/div/div[1]/a/p
+a,FREE GIFT WITH LEAVE-IN CONDITIONER,/html/body/fostr-main-content/div[1]/div/div/div[2]/a
+p,FREE GIFT WITH LEAVE-IN CONDITIONER,/html/body/fostr-main-content/div[1]/div/div/div[2]/a/p
+a,Samples,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[1]/a
+a,curl quiz,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[2]/header-menu/details/ul/li[1]/a
+a,Curl Guide,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[1]/a
+a,Blog,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[2]/a
+a,conditioner quiz,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[2]/header-menu/details/ul/li[4]/a
+a,Curling Iron,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[5]/div[2]/div/ul/li[5]/a
+a,Shop by Category,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[3]/a
+a,Shop by Texture,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[4]/a
+a,SETS & MINIS,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[5]/a
+a,Our Story,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[1]
+a,Glossary,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[6]/header-menu/details/ul/li[2]/a
+a,our cause,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[6]/header-menu/details/ul/li[3]/a
+a,Rewards,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[2]
+a,Log in,/html/body/div[5]/div/fostr-cart-drawer/div/div[2]/div[1]/div[2]/div[1]/div/p[2]/a
+a,"Cart
+00 items",/html/body/fostr-main-content/div[2]/sticky-header/header/div[2]/a[2]
+a,Samples,/html/body/fostr-main-content/div[2]/sticky-header/header/nav/ul/li[1]/a
+a,Bestsellers,/html/body/fostr-main-content/div[2]/sticky-header/div/a[2]
+a,Styling Creams & Gels,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[1]/a
+a,Conditioners,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[2]/a
+a,Shampoo & Prepoo,/html/body/fostr-main-content/div[2]/sticky-header/div/a[5]
+a,"Masks, Oils & Serums",/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[4]/a
+a,Heat Styling,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[5]/a
+a,Tools & Brushes,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[6]/a
+a,Accessories,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[7]/a
+h3,Shop by Category,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/h3
+p,Heat Styling​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[1]
+a,Heat Styling​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[1]/a
+p,Shampoos & Pre-Poo​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[2]
+a,Shampoos & Pre-Poo​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[2]/a
+p,Conditioners,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[3]
+a,Conditioners,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/ul/li[2]/a
+p,"Masks, Oils & Serums​",/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[4]
+a,"Masks, Oils & Serums​",/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[4]/a
+p,Styling Creams & Gels​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[5]
+a,Styling Creams & Gels​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[5]/a
+p,Tools & Brushes​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[6]
+a,Tools & Brushes​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[6]/a
+p,Accessories​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[7]
+a,Accessories​,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[7]/a
+p,Shop All,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[8]
+a,Shop All,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[1]/fostr-megamenu-links/p[8]/a
+a,Curl Mousse,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[1]/a
+a,Hydration Shampoo,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[3]/a
+a,Palo Santo Styling Cream,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[4]/a
+a,Leave-In Conditioner,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[2]/fostr-megamenu-column/fostr-megamenu-column[4]/a[2]
+a,Detangling Nectar,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[5]/a
+a,Palo Santo Medium Conditioner,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[7]/a
+a,Take our curl quiz,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[3]/a[2]
+h3,Shop by Texture,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[2]/h3
+a,curly,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[2]/fostr-megamenu-columns/fostr-megamenu-column[1]/a[2]
+a,tight texture,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[2]/fostr-megamenu-columns/fostr-megamenu-column[2]/a[2]
+a,coily,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[2]/fostr-megamenu-columns/fostr-megamenu-column[3]/a[2]
+a,locs,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[2]/fostr-megamenu-columns/fostr-megamenu-column[4]/a[2]
+a,shop all products,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[2]/div/a
+h3,SETS & MINIS,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[3]/h3
+a,curl type starter sets,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[3]/fostr-megamenu-columns/fostr-megamenu-column[1]/a[2]
+a,mini sets,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[3]/fostr-megamenu-columns/fostr-megamenu-column[2]/a[2]
+a,bestselling sets & kits,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[3]/fostr-megamenu-columns/fostr-megamenu-column[3]/a[2]
+a,shop all SETS & MINIS,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[3]/div/a
+a,SHOP BESTSELLERS,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[1]/div/div/div/div/a[2]
+a,SHOP THE JUICY CURL KIT,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[2]/div/div/div/div/a[2]
+a,SHOP THE KIT,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[3]/div/div/div/div/a[2]
+a,SHOP THE CURLING IRON,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[4]/div/div/div/div/a[2]
+a,SHOP NOW,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[5]/div/div/div/div/a[2]
+a,SHOP BESTSELLERS,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[1]/div/div/div/div/a[2]
+a,SHOP THE JUICY CURL KIT,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[2]/div/div/div/div/a[2]
+a,SHOP THE KIT,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[3]/div/div/div/div/a[2]
+a,SHOP THE CURLING IRON,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[4]/div/div/div/div/a[2]
+a,SHOP NOW,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[5]/div/div/div/div/a[2]
+a,SHOP BESTSELLERS,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[1]/div/div/div/div/a[2]
+p,Add a touch of warmth & tenderness to your haircare routine with our community's favorite scent now in travel sizes.,/html/body/fostr-main-content/main/div[1]/div/div/div/div[2]/div/div[2]/p[1]
+p,"featuring Leave-in Conditioner, Styling Cream & Curl Mousse all in our Palo Santo scent",/html/body/fostr-main-content/main/div[1]/div/div/div/div[2]/div/div[2]/p[2]
+a,SHOP NOW,/html/body/fostr-main-content/main/section[1]/div/div[1]/div/div[5]/div/div/div/div/a[2]
+a,Subtitle,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[1]/div/div/div[2]/div/div/div/a
+a,Leave-In Conditioner,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[2]/fostr-megamenu-column/fostr-megamenu-column[4]/a[2]
+a,Palo Santo Mini Stylers Kit,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[2]/div/div/div/div/div/div/div[2]/div/div/div/a
+a,Curl Mousse,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[1]/a
+a,The PATTERN Blow Dryer,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[4]/div/div/div/div/div/div/div[2]/div/div/div/a
+a,The Interchangeable Curling Iron,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[5]/div/div/div/div/div/div/div[2]/div/div/div/a
+a,Detangling Nectar,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[5]/a
+a,Moisture Milk,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[7]/div/div/div/div/div/div/div[2]/div/div/div/a
+a,Deep Scalp Detox,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[8]/div/div/div/div/div/div/div[2]/div/div/div/a
+h2,Shop by Texture,/html/body/fostr-main-content/main/section[2]/div/div/div[2]/h2
+h2,Leave-In Conditioner,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/h2
+a,3601 Reviews,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[1]/div/div/div[1]/div[1]/a
+a,Shipping,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[3]/a
+h3,"Leave-in conditioner
+9.8 fl oz
+
+
+
+
+Regular price
+
+        $28.00
+      
+
+
+Regular price
+
+          
+            $28.00
+          
+        Sale price
+
+        $28.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/h3
+a,"Leave-in conditioner
+9.8 fl oz",/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/h3/a
+a,9.8 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[1]/a
+a,25 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[2]/a
+a,3 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[3]/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h2,fall must-haves,/html/body/fostr-main-content/main/section[4]/div/div/div/h2
+p,"stock up on these hits for fresh braids, twists & wash & gos",/html/body/fostr-main-content/main/section[4]/div/div/div/div/p
+h3,Palo Santo Leave-In Conditioner,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Palo Santo Leave-In Conditioner,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[2]/a
+h3,Palo Santo Leave-In Conditioner,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Palo Santo Leave-In Conditioner,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[2]/a
+p,moisture-rich & soft curl definition,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[2]/div/p
+h3,"Palo santo leave-in conditioner
+
+
+
+
+Regular price
+
+        $28.00
+      
+
+
+Regular price
+
+          
+            $28.00
+          
+        Sale price
+
+        $28.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,Palo santo leave-in conditioner,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h3,Deep Scalp Detox,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Deep Scalp Detox,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[8]/div/div/div/div/div/div/div[2]/div/div/div/a
+h3,Deep Scalp Detox,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Deep Scalp Detox,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[8]/div/div/div/div/div/div/div[2]/div/div/div/a
+p,"purify, purge & balance",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[2]/div/p
+h3,"Deep scalp detox
+
+
+
+
+Regular price
+
+        $29.00
+      
+
+
+Regular price
+
+          
+            $29.00
+          
+        Sale price
+
+        $29.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,Deep scalp detox,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h3,Palo Santo Medium Conditioner,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Palo Santo Medium Conditioner,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[7]/a
+h3,Palo Santo Medium Conditioner,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Palo Santo Medium Conditioner,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[7]/a
+p,rich hydration with curl definition,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[2]/div/p
+h3,"Palo santo medium conditioner
+
+
+
+
+Regular price
+
+        $26.00
+      
+
+
+Regular price
+
+          
+            $26.00
+          
+        Sale price
+
+        $26.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,Palo santo medium conditioner,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h3,Curl Mousse,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Curl Mousse,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[1]/a
+h3,Curl Mousse,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Curl Mousse,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[1]/a
+p,weightless volume & touchable hold,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/p
+h3,"Curl mousse
+8 fl oz
+
+
+
+
+Regular price
+
+        $23.00
+      
+
+
+Regular price
+
+          
+            $23.00
+          
+        Sale price
+
+        $23.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,"Curl mousse
+8 fl oz",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,8 fl oz,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/div[1]/div[1]/a
+a,4 fl oz,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/div[1]/div[2]/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h2,Curl Mousse,/html/body/fostr-main-content/main/section[5]/section/div/div/fostr-product-card/div/h2
+a,553 Reviews,/html/body/fostr-main-content/main/section[5]/section/div/div/fostr-product-card/div/div[1]/div/div/div[1]/div[1]/a
+a,Shipping,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[3]/a
+h3,"Curl mousse
+8 fl oz
+
+
+
+
+Regular price
+
+        $23.00
+      
+
+
+Regular price
+
+          
+            $23.00
+          
+        Sale price
+
+        $23.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,"Curl mousse
+8 fl oz",/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,8 fl oz,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/div[1]/div[1]/a
+a,4 fl oz,/html/body/fostr-main-content/main/section[4]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/div[1]/div[2]/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h2,community favorites,/html/body/fostr-main-content/main/section[6]/div/div/div/h2
+p,the curl essentials you should stock up on,/html/body/fostr-main-content/main/section[6]/div/div/div/div/p
+h3,Leave-In Conditioner,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Leave-In Conditioner,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[2]/fostr-megamenu-column/fostr-megamenu-column[4]/a[2]
+h3,Leave-In Conditioner,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Leave-In Conditioner,/html/body/fostr-main-content/div[2]/aside/fostr-megamenu-item[1]/fostr-megamenu-columns/fostr-megamenu-column[2]/fostr-megamenu-column/fostr-megamenu-column[4]/a[2]
+p,"7X the juicy, 2X the definition",/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[1]/fostr-product-card/div/div[2]/div/p
+h3,"Leave-in conditioner
+9.8 fl oz
+
+
+
+
+Regular price
+
+        $28.00
+      
+
+
+Regular price
+
+          
+            $28.00
+          
+        Sale price
+
+        $28.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/h3
+a,"Leave-in conditioner
+9.8 fl oz",/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/h3/a
+a,9.8 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[1]/a
+a,25 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[2]/a
+a,3 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[3]/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h3,Moisture Milk,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Moisture Milk,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[7]/div/div/div/div/div/div/div[2]/div/div/div/a
+h3,Moisture Milk,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Moisture Milk,/html/body/fostr-main-content/main/section[2]/div/div/div[1]/div/div/div/div/div[2]/ul/li[7]/div/div/div/div/div/div/div[2]/div/div/div/a
+p,refreshes & smooths unwanted frizz,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[2]/div/p
+h3,"Moisture milk
+
+
+
+
+Regular price
+
+        $28.00
+      
+
+
+Regular price
+
+          
+            $28.00
+          
+        Sale price
+
+        $28.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,Moisture milk,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[2]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h3,Hydration Shampoo,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Hydration Shampoo,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[3]/a
+h3,Hydration Shampoo,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Hydration Shampoo,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[3]/a
+p,gentle moisture-rich cleanser,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[2]/div/p
+h3,"Hydration shampoo
+9.8 fl oz
+
+
+
+
+Regular price
+
+        $21.00
+      
+
+
+Regular price
+
+          
+            $21.00
+          
+        Sale price
+
+        $21.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,"Hydration shampoo
+9.8 fl oz",/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[3]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,9.8 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[1]/a
+a,25 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[2]/a
+a,3 fl oz,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[1]/div[3]/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h3,Detangling Nectar,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Detangling Nectar,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[5]/a
+h3,Detangling Nectar,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[1]/div[2]/div/h3
+a,Detangling Nectar,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-link-blocks/fostr-mobilemenu-link-block[2]/div[2]/div/slider-component/ul/li[5]/a
+p,detangles with extra slip,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/p
+h3,"Detangling nectar
+
+
+
+
+Regular price
+
+        $28.00
+      
+
+
+Regular price
+
+          
+            $28.00
+          
+        Sale price
+
+        $28.00
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/h3
+a,Detangling nectar,/html/body/fostr-main-content/main/section[6]/div/div/slider-component/ul/li[4]/fostr-product-card/div/div[2]/div/div/quick-buy/h3/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+a,Skip to product information,/html/body/fostr-main-content/main/section[7]/section/div/div/div/media-gallery/a
+p,SHOP 30% OFF,/html/body/fostr-main-content/main/section[7]/section/div/div/fostr-product-card/div/p
+h2,Transition Mask,/html/body/fostr-main-content/main/section[7]/section/div/div/fostr-product-card/div/h2
+a,199 Reviews,/html/body/fostr-main-content/main/section[7]/section/div/div/fostr-product-card/div/div[1]/div/div/div[1]/div[1]/a
+a,Shipping,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[3]/a
+h3,"Transition mask
+
+
+
+
+Regular price
+
+        $17.50
+      
+
+
+Regular price
+
+          
+            $25.00
+          
+        Sale price
+
+        $17.50
+      
+
+
+Unit price
+
+
+/
+ per",/html/body/fostr-main-content/main/section[7]/section/div/div/fostr-product-card/div/div[5]/quick-buy/h3
+a,Transition mask,/html/body/fostr-main-content/main/section[7]/section/div/div/fostr-product-card/div/div[5]/quick-buy/h3/a
+a,Add to cart,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[5]/quick-buy/div[2]/a
+h2,shop by collection,/html/body/fostr-main-content/main/section[8]/div/div/div[1]/h2
+h3,heat styling,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[1]/div/div[2]/h3
+a,shop heat,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[1]/div/div[2]/a
+h3,shampoos & conditioners,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[2]/div/div[2]/h3
+a,Shop wash,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[2]/div/div[2]/a
+h3,Styling creams & gels,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[3]/div/div[2]/h3
+a,Shop Styling,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[3]/div/div[2]/a
+h3,masks & oils,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[4]/div/div[2]/h3
+a,Shop Treatment,/html/body/fostr-main-content/main/section[8]/div/div/slider-component/ul/li[4]/div/div[2]/a
+p,"We are here to fulfill the beauty needs of the CURLY, COILY & TIGHT TEXTUREDcommunity.",/html/body/fostr-main-content/main/div[2]/div/div/div/div[2]/div/div[2]/p
+p,We are centered around the celebration of Black Beauty.We are an active space for uplifting & loving our authentic beauty.We are Black-owned  & Black-founded.,/html/body/fostr-main-content/main/div[2]/div/div/div/div[2]/div/div[3]/p
+a,Visit our curl guide,/html/body/fostr-main-content/main/div[2]/div/div/div/div[2]/div/a[1]
+a,See our story,/html/body/fostr-main-content/main/div[2]/div/div/div/div[2]/div/a[2]
+a,Shop the collection,/html/body/fostr-main-content/main/section[9]/div/div/div/div/div/a
+a,4.8 4.8 star rating  Caramella Hair Clip,/html/body/fostr-main-content/main/div[3]/div/div/div[1]/div[1]/div[3]/div[1]/div/div/div/a
+h2,Caramella Hair Clip,/html/body/fostr-main-content/main/div[3]/div/div/div[1]/div[1]/div[3]/div[1]/div/div/div/a/h2
+a,4.8 4.8 star rating  Deep Scalp Detox,/html/body/fostr-main-content/main/div[3]/div/div/div[1]/div[1]/div[4]/div[1]/div/div/div/a
+h2,Deep Scalp Detox,/html/body/fostr-main-content/main/div[3]/div/div/div[1]/div[1]/div[4]/div[1]/div/div/div/a/h2
+a,4.6 4.6 star rating  Moisture Milk,/html/body/fostr-main-content/main/div[3]/div/div/div[1]/div[1]/div[5]/div[1]/div/div/div/a
+h2,Moisture Milk,/html/body/fostr-main-content/main/div[3]/div/div/div[1]/div[1]/div[5]/div[1]/div/div/div/a/h2
+a,Powered by,/html/body/fostr-main-content/main/div[3]/div/div/div[1]/div[2]/div/div/div[3]/div[6]/a
+h2,Sign up for email & get 10% off,/html/body/fostr-main-content/div[3]/div/div/h2
+p,"Save 10% on your first purchase when you subscribe to our community + stay up-to-date on offers,new products & more-straight to your inbox.",/html/body/fostr-main-content/div[3]/div/div/div/p[2]
+a,My Account,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[1]/ul/li[1]/a
+a,Gift Cards,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[1]/ul/li[2]/a
+a,Refer A Friend,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[1]/ul/li[3]/a
+a,Subscriptions,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[1]/ul/li[4]/a
+a,Contact,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/footer/p/a[3]
+a,Returns,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[1]/ul/li[6]/a
+a,Creator Squad,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[1]/ul/li[7]/a
+a,SMS sign up,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[1]/ul/li[8]/a
+a,FAQ,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[2]/ul/li[1]/a
+a,Shipping,/html/body/fostr-main-content/main/section[3]/section/div/div/fostr-product-card/div/div[3]/a
+a,Cookie Policy,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[2]/ul/li[3]/a
+a,Privacy,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[2]/ul/li[4]/a
+a,Terms,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[2]/ul/li[5]/a
+a,Accessibility,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[2]/ul/li[6]/a
+a,Store Locator,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[1]/div/div[2]/ul/li[7]/a
+h2,JOIN OUR COMMUNITY,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[2]/h2
+p,@PATTERNBEAUTY,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[2]/div[1]/p
+a,Facebook,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[1]/a
+a,Pinterest,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[2]/a
+a,Instagram,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[3]/a
+a,TikTok,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[4]/a
+a,YouTube,/html/body/section[2]/fostr-mobilemenu/aside/fostr-mobilemenu-tier/fostr-mobilemenu-tier-body/fostr-mobilemenu-social-links/ul/li[5]/a
+p,"As part of our everyday business, PATTERN is proud to donate to a variety of organizations that empower women & people of color.",/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[3]/div/ul/li[1]/p
+p,Please Recycle,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[3]/div/ul/li[2]/p
+p,We are cruelty-free,/html/body/fostr-main-content/div[3]/footer/div[1]/div/div[3]/div/ul/li[3]/p
+h2,Select Your Free Gift,/html/body/gwp-modal/div/div/h2
+p,Free with your purchase of [[ amount ]] or more,/html/body/gwp-modal/div/div/p[1]
+p,Free gift with any purchase from the [[ collection ]] collection,/html/body/gwp-modal/div/div/p[2]
+h3,detangling nectar 1.75 fl oz,/html/body/gwp-modal/div/div/div[1]/fostr-menu-carousel-component/fostr-menu-slider-component/fostr-menu-slide-component/fostr-product-card-gwp/div/div[1]/div[2]/div/h3
+a,detangling nectar 1.75 fl oz,/html/body/gwp-modal/div/div/div[1]/fostr-menu-carousel-component/fostr-menu-slider-component/fostr-menu-slide-component/fostr-product-card-gwp/div/div[1]/div[2]/div/h3/a
+h3,detangling nectar 1.75 fl oz,/html/body/gwp-modal/div/div/div[1]/fostr-menu-carousel-component/fostr-menu-slider-component/fostr-menu-slide-component/fostr-product-card-gwp/div/div[1]/div[2]/div/h3
+a,detangling nectar 1.75 fl oz,/html/body/gwp-modal/div/div/div[1]/fostr-menu-carousel-component/fostr-menu-slider-component/fostr-menu-slide-component/fostr-product-card-gwp/div/div[1]/div[2]/div/h3/a
